@@ -22,8 +22,19 @@ Yo Boizzz , This Is A Hackpad Named DevBoard X That Includes 20 Keys [Mechanical
 
 <img width="302" height="368" alt="image" src="https://github.com/user-attachments/assets/93322e80-4093-4770-8804-2c3eaa2b0cc5" />
 
-# BOM
-Rasberry PI Pico | 1 | Robu.in | $5.81
-0.96 Inch OLED | 1 | Amazon.in | $3.49
-Cherry_Mx Key Switches | 20 | CosmicBte | $17.43
-KeyCaps | 20 | UBuy | 29.61
+# 📋 Bill of Materials (BOM)
+
+| Component | Quantity | Specification | Unit Price | Total Price |
+|-----------|----------|---------------|------------|-------------|
+| **Microcontroller** | 1 | Raspberry Pi Pico | $5.81 | $5.81 |
+| **Rotary Encoders** | 4 | EC11 (Vertical, 20mm shaft) | - | - |
+| **Keyswitches** | 20 | Cherry MX (or compatible) | - | - |
+| **Diodes** | 20 | 1N4148 (SOD-123 or THT) | $0.3 | $5.81 |
+| **PCB** | 5 | Custom macropad (5x4 matrix) | $45 with shipping | $45 with shipping |
+| **Case & Knobs** | 1 | 3D Printed | - | - |
+| **Screws/Standoffs** | 4-8 | M2 or M3 (6-8mm length) | - | - |
+| **USB Cable** | 1 | Micro-USB or USB-C | $5.81 | $5.81 |
+
+**IDK WHY EVERYTHING IS SO EXPENSIVE IN INDIA**
+
+**Total Estimated Cost**: `-`
