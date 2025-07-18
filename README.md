@@ -2,9 +2,9 @@
 Yo Boizzz , This Is A Hackpad Named DevBoard X That Includes 20 Keys [Mechanical] with 4x EC11 Rotary Encoders And 1x OLED Diplay...
 
 # FEATURES 
-1->> Full Of Functionable Keys { 20 ,MORE THAN ENOUGH }
-2->> Rotary Encoders { Cool Scrolllss }
-3->> Fully Customizable { Modify The Code For Ur Own Functioning }
+1->> Full Of Functionable Keys { 20 ,MORE THAN ENOUGH }</n>
+2->> Rotary Encoders { Cool Scrolllss }</n>
+3->> Fully Customizable { Modify The Code For Ur Own Functioning }</n>
 
 # IMAGESSS
 <img width="461" height="556" alt="Screenshot from 2025-07-18 20-59-29" src="https://github.com/user-attachments/assets/ffd6a3d9-9b3f-4e29-9ee5-9cc4e0d6cfea" />
