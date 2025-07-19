@@ -43,15 +43,19 @@ Yo Boizzz , This Is A Hackpad Named DevBoard X That Includes 20 Keys [Mechanical
 
 | Component | Quantity | Specification | Unit Price | Total Price |
 |-----------|----------|---------------|------------|-------------|
-| **Microcontroller** | 1 | Raspberry Pi Pico | $5.81 | $5.81 |
-| **Rotary Encoders** | 4 | EC11 (Vertical, 20mm shaft) | - | - |
-| **Keyswitches** | 20 | Cherry MX (or compatible) | - | - |
-| **Diodes** | 20 | 1N4148 (SOD-123 or THT) | $0.3 | $5.81 |
-| **PCB** | 5 | Custom macropad (5x4 matrix) | $45 with shipping | $45 with shipping |
-| **Case & Knobs** | 1 | 3D Printed | - | - |
-| **Screws/Standoffs** | 4-8 | M2 or M3 (6-8mm length) | - | - |
-| **USB Cable** | 1 | Micro-USB or USB-C | $5.81 | $5.81 |
+| **Microcontroller** | 1 | Raspberry Pi Pico | $4.88 | $4.88 |
+| **Rotary Encoders** | 4 | EC11 (Vertical, 20mm shaft) | 0.87 | 3.48 |
+| **Keyswitches** | 20 | Cherry MX (or compatible) | 1.51 | 30.19 |
+| **Diodes** | 20 | 1N4148 (SOD-123 or THT) | $0.3 | $2.32 |
+| **PCB** | 5 | Custom macropad (5x4 matrix) | $39 with shipping | $39 with shipping |
+| **Case & Knobs** | 1 | 3D Printed | Done By Printing Legion | Done By Printing Legion |
+| **USB Cable** | 1 | Micro-USB or USB-C | $3.32 | $2.32 |
+
+##JLCPCB 
+<img width="1262" height="602" alt="image" src="https://github.com/user-attachments/assets/8924261c-dcf3-4c7b-8ff3-21a26e1790cc" />
+
 
 **IDK WHY EVERYTHING IS SO EXPENSIVE IN INDIA**
 
-**Total Estimated Cost**: `-`
+**Total Estimated Cost**: `$85 WITH SHIPPING CHARGES INCLUDED`
+**I Tried My best To Decrease The cost As Much As Possible , Would Be Much Cheaper If I Was In US**
