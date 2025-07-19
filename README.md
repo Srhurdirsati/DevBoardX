@@ -45,8 +45,8 @@ Yo Boizzz , This Is A Hackpad Named DevBoard X That Includes 20 Keys [Mechanical
 |-----------|----------|---------------|------------|-------------|
 | **Microcontroller** | 1 | Raspberry Pi Pico | $4.88 | $4.88 |
 | **Rotary Encoders** | 4 | EC11 (Vertical, 20mm shaft) | 0.87 | 3.48 |
-| **Keyswitches** | 20 | Cherry MX (or compatible) | 1.51 | 30.19 |
-| **Diodes** | 20 | 1N4148 (SOD-123 or THT) | $0.3 | $2.32 |
+| **Keyswitches** | 20 | Outemu Red Cherry MX  | 1.51 | 30.19 |
+| **Diodes** | 20 | 1N4148 (THT) | $0.3 | $2.32 |
 | **PCB** | 5 | Custom macropad (5x4 matrix) | $39 with shipping | $39 with shipping |
 | **Case & Knobs** | 1 | 3D Printed | Done By Printing Legion | Done By Printing Legion |
 | **USB Cable** | 1 | Micro-USB or USB-C | $3.32 | $2.32 |
