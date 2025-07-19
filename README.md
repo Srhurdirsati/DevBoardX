@@ -51,7 +51,8 @@ Yo Boizzz , This Is A Hackpad Named DevBoard X That Includes 20 Keys [Mechanical
 | **Case & Knobs** | 1 | 3D Printed | Done By Printing Legion | Done By Printing Legion |
 | **USB Cable** | 1 | Micro-USB or USB-C | $3.32 | $2.32 |
 
-##JLCPCB 
+## JLCPCB
+
 <img width="1262" height="602" alt="image" src="https://github.com/user-attachments/assets/8924261c-dcf3-4c7b-8ff3-21a26e1790cc" />
 
 
