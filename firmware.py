@@ -1,12 +1,10 @@
-# Macropad Firmware (Pico + 20 keys + 4 encoders)
-# Save as 'code.py' on CIRCUITPY drive
 import board
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.scanners.keypad import KeysScanner
 from kmk.modules.encoder import EncoderHandler
 from kmk.keys import KC
 
-# Keymap (5 columns x 4 rows)
+
 keymap = [
     KC.N1, KC.N2, KC.N3, KC.N4, KC.N5,  # Row 0
     KC.Q,  KC.W,  KC.E,  KC.R,  KC.T,   # Row 1
@@ -14,7 +12,6 @@ keymap = [
     KC.Z,  KC.X,  KC.C,  KC.V,  KC.B,   # Row 3
 ]
 
-# Encoders: [(A, B, SW), (Clockwise, Counter, Click)]
 encoders = [
     ((board.GP10, board.GP11, board.GP12), (KC.VOLU, KC.VOLD, KC.MUTE)),
     ((board.GP13, board.GP14, board.GP15), (KC.RIGHT, KC.LEFT, KC.ENTER)),
@@ -24,19 +21,19 @@ encoders = [
 
 class Macropad(KMKKeyboard):
     def __init__(self):
-        # Matrix setup
+        
         self.row_pins = [board.GP5, board.GP6, board.GP7, board.GP8]
         self.col_pins = [board.GP0, board.GP1, board.GP2, board.GP3, board.GP4]
         self.diode_orientation = 'COL2ROW'  # Diodes point to rows
         
-        # Encoder setup
+        
         self.encoder_handler = EncoderHandler()
         for (a, b, sw), (cw, ccw, press) in encoders:
             self.encoder_handler.pins.append((a, b, sw))
             self.encoder_handler.map.append((cw, ccw, press))
         self.modules.append(self.encoder_handler)
         
-        # Key scanner
+       
         self.matrix = KeysScanner(keymap)
 
 keyboard = Macropad()
