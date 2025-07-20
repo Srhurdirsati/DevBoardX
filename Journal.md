@@ -1,3 +1,6 @@
+# TOTAL TIME = ~13 HOURS
+# TOTAL DAYS = ~4.5 DAYS
+
 # July 16, 2025
 
 
