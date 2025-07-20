@@ -24,7 +24,7 @@ class Macropad(KMKKeyboard):
         
         self.row_pins = [board.GP5, board.GP6, board.GP7, board.GP8]
         self.col_pins = [board.GP0, board.GP1, board.GP2, board.GP3, board.GP4]
-        self.diode_orientation = 'COL2ROW'  # Diodes point to rows
+        self.diode_orientation = 'COL2ROW' 
         
         
         self.encoder_handler = EncoderHandler()
