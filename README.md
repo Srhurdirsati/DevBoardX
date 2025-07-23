@@ -1,5 +1,5 @@
 # DevBoard X
-Yo Boizzz , This Is A Hackpad Named DevBoard X That Includes 20 Keys [Mechanical] with 4x EC11 Rotary Encoders And 1x OLED Diplay...
+Yo Boizzz , This Is A MACROPAD (not really , it has 20 keys) Named DevBoard X That Includes 20 Keys [Mechanical] with 4x EC11 Rotary Encoders And 1x OLED Diplay...
 
 # FEATURES 
 1->> Full Of Functionable Keys { 20 ,MORE THAN ENOUGH }</n>
