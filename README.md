@@ -58,5 +58,5 @@ Yo Boizzz , This Is A MACROPAD (not really , it has 20 keys) Named DevBoard X Th
 
 **IDK WHY EVERYTHING IS SO EXPENSIVE IN INDIA**
 
-**Total Estimated Cost**: `$85 WITH SHIPPING CHARGES INCLUDED`
+**Total Estimated Cost**: `$65-70 WITH SHIPPING CHARGES INCLUDED`
 **I Tried My best To Decrease The cost As Much As Possible , Would Be Much Cheaper If I Was In US**
