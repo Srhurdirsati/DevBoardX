@@ -1,7 +1,7 @@
 # TOTAL TIME = ~13 HOURS
 # TOTAL DAYS = ~4.5 DAYS
 
-# July 16, 2025
+# August 08 , 2025
 
 
 ### Design , Items And Thinking Abt MicroController & Planning
@@ -13,7 +13,7 @@ Chose Pasberry Pi Pico As My Microcontroller For This Project And Planned The De
 
 > **TIME SPENT = ~ 2 HOURS**
 
-# July 17, 2025 **PCB WORK STARTED**
+# August 9, 2025 **PCB WORK STARTED**
 
 Today , I Completed the Work Of My PCB-Schemstics , Made Measurements , And Assigned Footprints To Symbols 
 
@@ -23,7 +23,7 @@ Today , I Completed the Work Of My PCB-Schemstics , Made Measurements , And Assi
 
 > **TIME SPENT = ~1.5 Hours**
 
-# July 18, 2025 **PCB WORK FINISHED**
+# July 10, 2025 **PCB WORK FINISHED**
 
 The PCB Routing i.e The PCB-Board Was Completely Made , All Components Placed And GERBER.zip File Ready 
 
@@ -35,7 +35,7 @@ The PCB Routing i.e The PCB-Board Was Completely Made , All Components Placed An
 
 > **TIME SPENT = ~3 Hours**
 
-# July 19, 2025 **CAD WORK STARTED**
+# July 11, 2025 **CAD WORK STARTED**
 
 I've Started The Work Of 3D Designing And And Fininshed The Top Case [Took More Time Than Expected].....I'm New To 3D Designing
 
@@ -47,7 +47,7 @@ I've Started The Work Of 3D Designing And And Fininshed The Top Case [Took More 
 
 > **TIME SPENT = ~1 Hour**
 
-# July 20, 2025 **CAD WORK FINISHED**
+# July 12-13 , 2025 **CAD WORK FINISHED**
 
 **TOOL USED - FREECAD**
 
