@@ -35,7 +35,7 @@ The PCB Routing i.e The PCB-Board Was Completely Made , All Components Placed An
 
 > **TIME SPENT = ~3 Hours**
 
-# July 11, 2025 **CAD WORK STARTED**
+# August 11, 2025 **CAD WORK STARTED**
 
 I've Started The Work Of 3D Designing And And Fininshed The Top Case [Took More Time Than Expected].....I'm New To 3D Designing
 
@@ -47,7 +47,7 @@ I've Started The Work Of 3D Designing And And Fininshed The Top Case [Took More 
 
 > **TIME SPENT = ~1 Hour**
 
-# July 12-13 , 2025 **CAD WORK FINISHED**
+# August 12-13 , 2025 **CAD WORK FINISHED**
 
 **TOOL USED - FREECAD**
 
