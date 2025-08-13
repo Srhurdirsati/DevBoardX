@@ -47,16 +47,17 @@ Yo Boizzz , This Is A MACROPAD (not really , it has 20 keys) Named DevBoard X Th
 | **Rotary Encoders** | 4 | EC11 (Vertical, 20mm shaft) | 0.87 | 3.48 |
 | **Keyswitches** | 20 | Outemu Red Cherry MX  | 1.51 | $20 |
 | **Diodes** | 20 | 1N4148 (THT) | $0.3 | $2.32 |
-| **PCB** | 5 | Custom macropad (5x4 matrix) | $39 with shipping | $39 with shipping |
+| **PCB** | 5 | Custom macropad (5x4 matrix) | $25 with shipping | $25 with shipping |
 | **Case & Knobs** | 1 | 3D Printed | Done By Printing Legion | Done By Printing Legion |
 | **USB Cable** | 1 | Micro-USB or USB-C | $3.32 | $2.32 |
 
 ## JLCPCB
 
-<img width="1262" height="602" alt="image" src="https://github.com/user-attachments/assets/8924261c-dcf3-4c7b-8ff3-21a26e1790cc" />
+<img width="1130" height="501" alt="image" src="https://github.com/user-attachments/assets/40063833-d636-4371-a4fd-7461f2954838" />
+
 
 
 **IDK WHY EVERYTHING IS SO EXPENSIVE IN INDIA**
 
-**Total Estimated Cost**: `$65-70 WITH SHIPPING CHARGES INCLUDED`
+**Total Estimated Cost**: `$72-75 WITH SHIPPING CHARGES INCLUDED`
 **I Tried My best To Decrease The cost As Much As Possible , Would Be Much Cheaper If I Was In US**
